@@ -26,3 +26,11 @@ plotly
 scipy
 
 pandas
+
+backports
+
+ipywidgets
+
+nbconvert
+
+psutil
