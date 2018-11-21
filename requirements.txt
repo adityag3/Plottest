@@ -27,7 +27,7 @@ scipy
 
 pandas
 
-backports
+backports.tempfile==1.0
 
 ipywidgets
 
