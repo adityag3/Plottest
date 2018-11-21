@@ -21,8 +21,4 @@ TestCase
 
 raises
 
-tls
-
-PlotlyError
-
-colors
+plotly
