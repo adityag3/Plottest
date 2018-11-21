@@ -22,3 +22,13 @@ TestCase
 raises
 
 plotly
+
+tempfile
+
+scipy
+
+json
+
+sys 
+
+os
