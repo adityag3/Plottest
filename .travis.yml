@@ -1,7 +1,8 @@
-language: python
+language: python 
 sudo: enabled
 install:
-  - pip install -r requirements.txt
+  #- pip install -r requirements.txt
+  python -mpip install --upgrade -r requirements.txt
 
 script: 
     python -mpytest
