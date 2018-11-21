@@ -23,8 +23,6 @@ raises
 
 plotly
 
-tempfile
-
 scipy
 
 json
