@@ -68,4 +68,4 @@ nbconvert
 
 notebook>=5.3
 
-jupyterlab==0.35
+jupyterlab
