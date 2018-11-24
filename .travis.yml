@@ -4,5 +4,6 @@ install:
   #- pip install -r requirements.txt
   python -mpip install --upgrade -r optional-requirements.txt
   #python -mpip install --upgrade -r requirements.txt
+  python setup.py install
 script: 
     python -mpytest
