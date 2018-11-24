@@ -67,5 +67,3 @@ ipywidgets
 nbconvert
 
 notebook
-
-jupyterlab
