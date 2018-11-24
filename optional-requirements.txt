@@ -12,11 +12,11 @@ numpy
 matplotlib
 
 ## testing dependencies ##
-coverage==4.3.1
-mock==2.0.0
-nose==1.3.3
-pytest==3.5.1
-backports.tempfile==1.0
+coverage
+mock
+nose
+pytest
+backports.tempfile
 
 ## orca ##
 psutil
@@ -52,20 +52,20 @@ pillow
 requests
 
 ## python 2 to 3 compatibility ##
-six==1.8.0
+six
 
 ## timezone definitions ##
-pytz==2014.9
+pytz
 
 ## retrying requests ##
-retrying==1.3.3
+retrying
 
-plotly==3.4.2
+plotly
 
-ipywidgets>=7.2
+ipywidgets
 
 nbconvert
 
-notebook>=5.3
+notebook
 
 jupyterlab
