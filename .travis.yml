@@ -4,5 +4,6 @@ install:
   #- pip install -r requirements.txt
   python -mpip install --upgrade -r optional-requirements.txt
   #python -mpip install --upgrade -r requirements.txt
+  conda install -c plotly plotly-orca psutil
 script: 
     python -mpytest
