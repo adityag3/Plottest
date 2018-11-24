@@ -9,7 +9,7 @@
 numpy
 
 ## matplotlylib dependencies - moving away from 1.3.1 ##
-matplotlib==2.2.2
+matplotlib
 
 ## testing dependencies ##
 coverage==4.3.1
@@ -60,8 +60,12 @@ pytz==2014.9
 ## retrying requests ##
 retrying==1.3.3
 
-plotly
+plotly==3.4.2
 
-ipywidgets
+ipywidgets>=7.2
 
 nbconvert
+
+notebook>=5.3
+
+jupyterlab==0.35
