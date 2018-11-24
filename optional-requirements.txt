@@ -65,5 +65,3 @@ plotly
 ipywidgets
 
 nbconvert
-
-imghdr
