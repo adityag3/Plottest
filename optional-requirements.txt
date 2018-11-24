@@ -20,6 +20,7 @@ backports.tempfile
 
 ## orca ##
 psutil
+orca
 
 ## codegen dependencies ##
 yapf
