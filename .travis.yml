@@ -5,4 +5,4 @@ install:
   python -mpip install --upgrade -r optional-requirements.txt
   #python -mpip install --upgrade -r requirements.txt
 script: 
-    python -mpytest
+    python 3 -mpytest
